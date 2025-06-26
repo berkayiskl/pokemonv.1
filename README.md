@@ -8,21 +8,14 @@
 🧠 Karakter bazlı strateji geliştirme
 
 🔧 Kurulum ve Başlatma
-Gerekli kütüphaneleri kurmak için:
 
-bash
-Kopyala
-Düzenle
-pip install -r requirements.txt
 config.py dosyasındaki API_TOKEN kısmına geçerli bir anahtar girin.
 
 Oyunu başlatmak için:
 
-bash
-Kopyala
-Düzenle
 python main.py
-📌 Notlar
+
+## 📌 Notlar
 Bu proje Python 3.8+ ile test edilmiştir.
 
 API erişimi için PokéAPI kullanılmaktadır.
