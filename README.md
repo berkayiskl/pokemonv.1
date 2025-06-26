@@ -1,4 +1,4 @@
-🚀 Proje Özellikleri
+# 🚀 Proje Özellikleri
 🔗 Gerçek zamanlı Pokémon API bağlantısı ile karakter bilgilerini çekme
 
 ⚔️ Savaş, iyileştirme ve görsel gösterim mekanikleri
