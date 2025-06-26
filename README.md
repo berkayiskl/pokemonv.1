@@ -7,7 +7,7 @@
 
 🧠 Karakter bazlı strateji geliştirme
 
-🔧 Kurulum ve Başlatma
+## 🔧 Kurulum ve Başlatma
 
 config.py dosyasındaki API_TOKEN kısmına geçerli bir anahtar girin.
 
